@@ -26,8 +26,7 @@
 
 <h3 align="center">
     
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=vip-chatbot&type=git&repository=THE-VIP-BOY-OP%2FVIP-CHATBOT&branch=main&builder=dockerfile&env%5BBOT_TOKEN%5D=&env%5BMONGO_URL%5D=&env%5BOWNER_ID%5D=&ports=8000%3Bhttp%3B%2F)
-
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=king-chatbot&type=git&repository=amritraj78%2FKING-CHATBOT&branch=main&builder=buildpack&env%5B%5D=&ports=8000%3Bhttp%3B%2F)
 </h3>
 
 
