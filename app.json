@@ -1,7 +1,7 @@
 {
-  "name": "nexichat",
+  "name": "𝐀ɴɢʟᴇ‹✨",
   "description": "A telegram bot",
-  "logo": "https://graph.org/file/0d3f394ebbf5e8488cb1d.jpg",
+  "logo": "https://files.catbox.moe/k27avu.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/THE-VIP-BOY-OP/VIP-CHATBOT",
+  "repository": "https://github.com/amritraj78/KING-CHATBOT",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
@@ -21,7 +21,7 @@
     "OWNER_ID": {
       "description": "Fill Here Your Owner User Id",
       "required": true,
-      "value": "1808943146"
+      "value": "8081953831"
     },
     "MONGO_URL": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
