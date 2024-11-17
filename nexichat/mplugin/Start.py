@@ -52,22 +52,22 @@ EMOJIOS = [
     "🕊",
 ]
 
-BOT = "https://envs.sh/IL_.jpg"
+BOT = "https://files.catbox.moe/g5jqns.jpg"
 IMG = [
-    "https://graph.org/file/210751796ff48991b86a3.jpg",
-    "https://graph.org/file/7b4924be4179f70abcf33.jpg",
-    "https://graph.org/file/f6d8e64246bddc26b4f66.jpg",
-    "https://graph.org/file/63d3ec1ca2c965d6ef210.jpg",
-    "https://graph.org/file/9f12dc2a668d40875deb5.jpg",
-    "https://graph.org/file/0f89cd8d55fd9bb5130e1.jpg",
-    "https://graph.org/file/e5eb7673737ada9679b47.jpg",
-    "https://graph.org/file/2e4dfe1fa5185c7ff1bfd.jpg",
-    "https://graph.org/file/36af423228372b8899f20.jpg",
-    "https://graph.org/file/c698fa9b221772c2a4f3a.jpg",
-    "https://graph.org/file/61b08f41855afd9bed0ab.jpg",
-    "https://graph.org/file/744b1a83aac76cb3779eb.jpg",
-    "https://graph.org/file/814cd9a25dd78480d0ce1.jpg",
-    "https://graph.org/file/e8b472bcfa6680f6c6a5d.jpg",
+    "https://files.catbox.moe/x1eei7.jpg",
+    "https://files.catbox.moe/419wao.jpg",
+    "https://files.catbox.moe/hx3cp5.jpg",
+    "https://files.catbox.moe/mwzznd.jpg",
+    "https://files.catbox.moe/er636p.jpg",
+    "https://files.catbox.moe/fuuu4l.jpg",
+    "https://files.catbox.moe/r8lice.jpg",
+    "https://files.catbox.moe/72i05i.jpg",
+    "https://files.catbox.moe/x9j4gc.jpg",
+    "https://files.catbox.moe/8a8n0l.jpg",
+    "https://files.catbox.moe/vbzxl1.jpg",
+    "https://files.catbox.moe/gg1dvo.jpg",
+    "https://files.catbox.moe/5lls10.jpg",
+    "https://files.catbox.moe/25vntq.jpg",
 ]
 
 
@@ -138,10 +138,10 @@ async def welcomejej(client, message: Message):
                         chat.photo.big_file_id, file_name=f"chatpp{chat.id}.png"
                     )
                     chat_photo = (
-                        groups_photo if groups_photo else "https://envs.sh/IL_.jpg"
+                        groups_photo if groups_photo else "https://files.catbox.moe/4o0yop.jpg"
                     )
                 except AttributeError:
-                    chat_photo = "https://envs.sh/IL_.jpg"
+                    chat_photo = "https://files.catbox.moe/hd3j3w.jpg"
                 except Exception as e:
                     pass
 
@@ -358,7 +358,7 @@ async def ping(client: Client, message: Message):
 
     ms = (datetime.now() - start).microseconds / 1000
     await loda.edit_text(
-        text=f"нey вαву!!\n{(await client.get_me()).mention} ᴄʜᴀᴛʙᴏᴛ ιѕ alιve 🥀 αnd worĸιng ғιne wιтн a pιng oғ\n\n**➥** `{ms}` ms\n**➲ ᴄᴘᴜ:** {CPU}\n**➲ ʀᴀᴍ:** {RAM}\n**➲ ᴅɪsᴋ:** {DISK}\n**➲ ᴜᴘᴛɪᴍᴇ »** {UP}\n\n<b>||**๏ мαdє ωιтн ❣️ ву [ᴠɪᴘ ʙᴏʏ](https://t.me/{OWNER_USERNAME}) **||</b>",
+        text=f"нey вαву!!\n{(await client.get_me()).mention} ᴄʜᴀᴛʙᴏᴛ ιѕ alιve 🥀 αnd worĸιng ғιne wιтн a pιng oғ\n\n**➥** `{ms}` ms\n**➲ ᴄᴘᴜ:** {CPU}\n**➲ ʀᴀᴍ:** {RAM}\n**➲ ᴅɪsᴋ:** {DISK}\n**➲ ᴜᴘᴛɪᴍᴇ »** {UP}\n\n<b>||**๏ мαdє ωιтн ❣️ ву [ᴠɪᴘ ᴀᴍʀɪᴛ](https://t.me/{OWNER_USERNAME}) **||</b>",
         reply_markup=InlineKeyboardMarkup(PNG_BTN),
     )
     if message.chat.type == ChatType.PRIVATE:
