@@ -1,7 +1,7 @@
 {
   "name": "𝐀ɴɢʟᴇ‹✨",
   "description": "A telegram bot",
-  "logo": "https://files.catbox.moe/k27avu.jpg",
+  "logo": "https://files.catbox.moe/1f4bt0.jpg",
   "keywords": [
     "Chatbot",
     "mongodb",
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/amritraj78/KING-CHATBOT",
+  "repository": "https://github.com/brandedxkings/VILLIAN-CHAT",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
@@ -21,7 +21,7 @@
     "OWNER_ID": {
       "description": "Fill Here Your Owner User Id",
       "required": true,
-      "value": "8081953831"
+      "value": "6474552945"
     },
     "MONGO_URL": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
