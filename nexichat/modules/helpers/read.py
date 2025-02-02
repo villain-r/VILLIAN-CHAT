@@ -17,8 +17,8 @@ START = """**
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═════════════════╗
-║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/amritraj78/KING-CHATBOT)  
-║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ᴠɪᴘ ✯ ᴀᴍʀɪᴛ](https://t.me/ll_AMRIT_ll)                         
+║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/villain-r/villain-CHATBOT)  
+║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ᴠɪᴘ ✯ ᴀᴍʀɪᴛ](https://t.me/ll_RAJPUTANA_ll)                         
 ╚═════════════════╝
 **"""
 
@@ -48,7 +48,7 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /repo ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ᴛʜᴇ ʙᴏᴛ!
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ᴠɪᴘ ✯ ᴀᴍʀɪᴛ](https://t.me/LOYAL_KINGDOM) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [ᴠɪᴘ ✯ ᴀᴍʀɪᴛ](https://t.me/LoSt_StOrY_V) 💞**
 """
 
 CHATBOT_READ = f"""**
@@ -68,10 +68,10 @@ CHATBOT_READ = f"""**
 ──────────────
 ➻ /stats - ɢᴇᴛ ʙᴏᴛ ꜱᴛᴀᴛꜱ
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴠɪᴘ ✯ ᴀᴍʀɪᴛ](https://t.me/LOYAL_KINGDOM) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴠɪᴘ ✯ ᴀᴍʀɪᴛ](https://t.me/LoSt_StOrY_V) 💞**
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{nexichat.name}](https://t.me/{nexichat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/amritraj78/KING-CHATBOT)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴠɪᴘ ✯ ᴀᴍʀɪᴛ](https://t.me/LOYAL_KINGDOM) 💞**||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{nexichat.name}](https://t.me/{nexichat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/villain-r/villain-CHATBOT)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴠɪᴘ ✯ ᴀᴍʀɪᴛ](https://t.me/LoSt_StOrY_V) 💞**||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 
