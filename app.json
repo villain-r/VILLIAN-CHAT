@@ -1,5 +1,5 @@
 {
-  "name": "𝐀ɴɢʟᴇ‹✨",
+  "name": "ꪜꫀꪎꤪ᧘᧘‹✨",
   "description": "A telegram bot",
   "logo": "https://files.catbox.moe/1f4bt0.jpg",
   "keywords": [
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/brandedxkings/VILLIAN-CHAT",
+  "repository": "https://github.com/villain-r/VILLIAN-CHAT",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
