@@ -17,4 +17,4 @@ CHAT_STORAGE = [
 VILLAIN = MongoCli(random.choice(CHAT_STORAGE))
 chatdb = VILLAIN.Anonymous
 chatai = chatdb.Word.WordDb
-storeai = VILLIAN.Anonymous.Word.NewWordDb  
+storeai = VILLAIN.Anonymous.Word.NewWordDb  
