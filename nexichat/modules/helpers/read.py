@@ -18,7 +18,7 @@ START = """**
 
 ╔═════════════════╗
 ║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/villain-r/villain-CHATBOT)  
-║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ᴠɪᴘ ✯ ᴀᴍʀɪᴛ](https://t.me/ll_RAJPUTANA_ll)                         
+║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [♡ ᴠɪʟʟᴀɪɴ ♡](https://t.me/ll_RAJPUTANA_ll)                         
 ╚═════════════════╝
 **"""
 
